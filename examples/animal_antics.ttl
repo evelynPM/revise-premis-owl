@@ -38,8 +38,8 @@
 <http://nri.library.ca/0912-0001.xml> a premis:File ;
     dct:format <XMLFormat> ;
     premis:fixity <0912-0001Fixity> ;
-    premis:size 58465 ;
-    premis:compositionLevel 0 ;
+    premis:size "58465" ;
+    premis:compositionLevel "0" ;
     prov:wasUsedBy <0912-0001Event> .
 
 <XMLFormat> a dct:FileFormat ;
@@ -67,8 +67,8 @@
 <http://nri.library.ca/0912-0002.tif> a premis:File ;
     dct:format <TIFFFormat> ;
     premis:fixity <0912-0002Fixity> ;
-    premis:size 5748572 ;
-    premis:compositionLevel 0 ;
+    premis:size "5748572" ;
+    premis:compositionLevel "0" ;
     prov:generatedAtTime "2017-11-10T14:23:30Z" ;
     dct:creator <KodakCapturePro> ;
     prov:wasUsedBy <0912-0002Event> .
